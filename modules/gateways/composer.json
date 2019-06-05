@@ -1,0 +1,12 @@
+{
+    "name": "paylane/whmcs",
+    "authors": [
+        {
+            "name": "Krzysztof Obarzanek",
+            "email": "krzysztof.obarzanek@develocraft.com"
+        }
+    ],
+    "require": {
+        "paylane/client": "^1.1"
+    }
+}
